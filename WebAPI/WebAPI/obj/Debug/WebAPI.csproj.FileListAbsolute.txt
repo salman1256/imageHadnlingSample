@@ -1,0 +1,76 @@
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\WebAPI.dll.config
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\WebGrease.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\EntityFramework.dll
+F:\profession\Youtube Channel\Dotnet Mob\Angular 5\Image Upload\Project\WebAPI\WebAPI\bin\EntityFramework.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\WebAPI.dll.config
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\WebAPI.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\WebAPI.pdb
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\EntityFramework.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Razor.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\WebGrease.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\EntityFramework.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Razor.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+D:\CoforgeTech-30Days\Day-29\Image-Upload-in-Angular-5-With-WebAPI-master\Image-Upload-in-Angular-5-With-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
